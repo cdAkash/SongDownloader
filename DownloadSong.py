@@ -46,6 +46,11 @@ if __name__ == "__main__":
     api_key = 'AIzaSyDTo74dfntklvGIj7GmfnnC9XXSuGchmJI'
     
     # List of songs to search for
+    # if(len(sys.argv)==1):
+    #     songs =[ input("enter the song name ")]
+    # else:
+    #     songs=sys.argv[1::]
+    # you can use either this part to take input directly from CLI or use the list to download in bulk.
     songs = [
         "Chand se parda kijiye",
     "Zara fir se kehna",

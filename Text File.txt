@@ -1,1 +1,10 @@
- 
+Depenedencied reqiured
+
+pip install google-api-python-client pytube youtube-dl yt-dlp
+
+--^^ run the following command on your terminal to install all the dependencies.
+1. You will required your own google api key to download the songs.
+2. Go to google.console.com and create an API called 
+    YouTube Data API v3 and paste it under the main function into the variable called api_key.
+
+    ENJOY. Byeeeeeeeeeeeeee

@@ -60,7 +60,7 @@ if __name__ == "__main__":
 
 
     # Output directory for downloaded MP3 files
-    output_directory = "/home/heckerrr/Documents/SongDownloader/songs"
+    output_directory = ""
 
 
     # Get YouTube video links for the songs

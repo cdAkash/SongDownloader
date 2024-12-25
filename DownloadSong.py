@@ -43,7 +43,7 @@ def download_youtube_as_mp3(youtube_url, output_dir):
 
 if __name__ == "__main__":
     # Set your YouTube Data API key here
-    api_key = 'AIzaSyDTo74dfntklvGIj7GmfnnC9XXSuGchmJI'
+    api_key = 'use oyur own'
     
     # List of songs to search for
     # if(len(sys.argv)==1):
